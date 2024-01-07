@@ -1,13 +1,5 @@
-<style>
-    .logo{
-        color: #0BCF6B;
-        text-transform: uppercase;
-    }
-
-</style>
-
 <div align="center">
-    <h1 class="logo">MediaStore</h1>
+    <h1 style="color: #0BCF6B; text-transform: uppercase;">MediaStore</h1>
     <p>Интернет-магазин смартфонов</p>
 </div>
 
