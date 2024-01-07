@@ -1,0 +1,9 @@
+#banner{
+    background: url(/images/banner.png) right no-repeat;
+    background-size: cover;
+}
+
+#slogan{
+    font-family: 'BigJohnPROBold';
+    text-transform: uppercase;
+}

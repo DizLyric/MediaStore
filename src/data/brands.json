@@ -1,0 +1,10 @@
+[
+		{"id": 1, "name": "Google", "img": "google.png"},
+		{"id": 2, "name": "Honor", "img": "honor.png"},
+		{"id": 3, "name": "OnePlus", "img": "oneplus.png"},
+		{"id": 4, "name": "Oppo", "img": "oppo.png"},
+		{"id": 5, "name": "Realme", "img": "realme.png"},
+		{"id": 6, "name": "Samsung", "img": "samsung.png"},
+		{"id": 7, "name": "Vivo", "img": "vivo.png"},
+		{"id": 8, "name": "Xiaomi", "img": "xiaomi.png"}
+]
