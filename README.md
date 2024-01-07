@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="color: #0BCF6B; text-transform: uppercase;">MediaStore</h1>
+    <h1>MEDIASTORE</h1>
     <p>Интернет-магазин смартфонов</p>
 </div>
 
