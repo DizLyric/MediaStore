@@ -29,9 +29,6 @@
 
 </div>
 
-### 📱 Адаптивная версия
-<img src="./screenshots/mobile-view.png" style="border-radius: 12px; border: 1px solid #e1e4e8; box-shadow: 0 4px 16px rgba(0,0,0,0.12); max-width: 300px; height: auto; display: block; margin: 0 auto;"/>
-
 ## 🚀 Ключевые функции
 
 - 📱 **Вывод товаров** с возможностью пагинации
