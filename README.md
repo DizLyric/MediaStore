@@ -11,24 +11,6 @@
 
 **MediaStore** - современный интернет-магазин смартфонов с интуитивно понятным интерфейсом и широким функционалом, разработанный с использованием передовых технологий.
 
-## 🖼️ Скриншоты интерфейса
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 30px 0;">
-
-### 1. Главная страница
-<img src="./screenshots/main.png" style="border-radius: 8px; border: 1px solid #e1e4e8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 500px; height: auto;"/>
-
-### 2. Избранное
-<img src="./screenshots/favorites.png" style="border-radius: 8px; border: 1px solid #e1e4e8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 500px; height: auto;"/>
-
-### 3. Корзина
-<img src="./screenshots/cart.png" style="border-radius: 8px; border: 1px solid #e1e4e8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 500px; height: auto;"/>
-
-### 4. Оформление заказа
-<img src="./screenshots/order.png" style="border-radius: 8px; border: 1px solid #e1e4e8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 500px; height: auto;"/>
-
-</div>
-
 ## 🚀 Ключевые функции
 
 - 📱 **Вывод товаров** с возможностью пагинации
